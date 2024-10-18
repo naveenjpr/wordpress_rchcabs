@@ -1,0 +1,139 @@
+2024-10-17 18:01:48 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 12728
+2024-10-17 18:01:48 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-17 18:01:48 0 [Note] InnoDB: Uses event mutexes
+2024-10-17 18:01:48 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-17 18:01:48 0 [Note] InnoDB: Number of pools: 1
+2024-10-17 18:01:48 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-17 18:01:48 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-17 18:01:48 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-17 18:01:48 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2024-10-17 18:01:48 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-17 18:01:49 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-17 18:01:49 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-17 18:01:49 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-17 18:01:49 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-17 18:01:49 0 [Note] InnoDB: Waiting for purge to start
+2024-10-17 18:01:49 0 [Note] InnoDB: 10.4.32 started; log sequence number 300297; transaction id 170
+2024-10-17 18:01:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-17 18:01:49 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-17 18:01:49 0 [Note] Server socket created on IP: '::'.
+2024-10-17 18:01:49 0 [Note] InnoDB: Buffer pool(s) load completed at 241017 18:01:49
+2024-10-17 18:05:30 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 6772
+2024-10-17 18:05:30 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-17 18:05:30 0 [Note] InnoDB: Uses event mutexes
+2024-10-17 18:05:30 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-17 18:05:30 0 [Note] InnoDB: Number of pools: 1
+2024-10-17 18:05:30 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-17 18:05:30 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-17 18:05:30 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-17 18:05:30 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300638
+2024-10-17 18:05:31 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-17 18:05:31 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-17 18:05:31 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-17 18:05:31 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-17 18:05:31 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-17 18:05:31 0 [Note] InnoDB: Waiting for purge to start
+2024-10-17 18:05:31 0 [Note] InnoDB: 10.4.32 started; log sequence number 300647; transaction id 193
+2024-10-17 18:05:31 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-17 18:05:31 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-17 18:05:31 0 [Note] Server socket created on IP: '::'.
+2024-10-17 18:19:24 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 7552
+2024-10-17 18:19:24 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-17 18:19:24 0 [Note] InnoDB: Uses event mutexes
+2024-10-17 18:19:24 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-17 18:19:24 0 [Note] InnoDB: Number of pools: 1
+2024-10-17 18:19:24 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-17 18:19:24 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-17 18:19:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-17 18:19:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300656
+2024-10-17 18:19:24 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-17 18:19:24 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-17 18:19:24 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-17 18:19:24 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-17 18:19:24 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-17 18:19:24 0 [Note] InnoDB: Waiting for purge to start
+2024-10-17 18:19:25 0 [Note] InnoDB: 10.4.32 started; log sequence number 300665; transaction id 193
+2024-10-17 18:19:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-17 18:19:25 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-17 18:19:25 0 [Note] Server socket created on IP: '::'.
+2024-12024-10-17 21:53:25 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 5236
+2024-10-17 21:53:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-17 21:53:25 0 [Note] InnoDB: Uses event mutexes
+2024-10-17 21:53:25 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-17 21:53:25 0 [Note] InnoDB: Number of pools: 1
+2024-10-17 21:53:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-17 21:53:25 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-17 21:53:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-17 21:53:25 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=4965671
+2024-10-17 21:53:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-17 21:53:25 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-17 21:53:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-17 21:53:25 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-17 21:53:25 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-17 21:53:25 0 [Note] InnoDB: Waiting for purge to start
+2024-10-17 21:53:25 0 [Note] InnoDB: 10.4.32 started; log sequence number 4965680; transaction id 3584
+2024-10-17 21:53:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-17 21:53:25 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-17 21:53:25 0 [Note] Server socket created on IP: '::'.
+2024-10-18  8:18:36 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 17552
+2024-10-18  8:18:36 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-18  8:18:36 0 [Note] InnoDB: Uses event mutexes
+2024-10-18  8:18:36 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-18  8:18:36 0 [Note] InnoDB: Number of pools: 1
+2024-10-18  8:18:36 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-18  8:18:36 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-18  8:18:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-18  8:18:36 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6846899
+2024-10-18  8:18:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-18  8:18:36 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-18  8:18:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-18  8:18:36 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-18  8:18:36 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-18  8:18:36 0 [Note] InnoDB: Waiting for purge to start
+2024-10-18  8:18:36 0 [Note] InnoDB: 10.4.32 started; log sequence number 6846908; transaction id 4797
+2024-10-18  8:18:36 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-18  8:18:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-18  8:18:36 0 [Note] Server socket created on IP: '::'.
+2024-10-18 17:36:27 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 10936
+2024-10-18 17:36:27 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-18 17:36:27 0 [Note] InnoDB: Uses event mutexes
+2024-10-18 17:36:27 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-18 17:36:27 0 [Note] InnoDB: Number of pools: 1
+2024-10-18 17:36:27 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-18 17:36:27 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-18 17:36:27 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-18 17:36:27 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=8212395
+2024-10-18 17:36:28 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-18 17:36:28 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-18 17:36:28 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-18 17:36:28 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-18 17:36:28 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-18 17:36:28 0 [Note] InnoDB: Waiting for purge to start
+2024-10-18 17:36:28 0 [Note] InnoDB: 10.4.32 started; log sequence number 8212404; transaction id 6203
+2024-10-18 17:36:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-18 17:36:28 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-18 17:36:28 0 [Note] Server socket created on IP: '::'.
+2024-10-18 17:36:33 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 16228
+2024-10-18 17:36:33 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-10-18 17:36:33 0 [Note] InnoDB: Uses event mutexes
+2024-10-18 17:36:33 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-10-18 17:36:33 0 [Note] InnoDB: Number of pools: 1
+2024-10-18 17:36:33 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-10-18 17:36:33 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-10-18 17:36:33 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-10-18 17:36:33 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=8212395
+2024-10-18 17:36:34 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-10-18 17:36:34 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-10-18 17:36:34 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-10-18 17:36:34 0 [Note] InnoDB: Setting file 'D:\wordpess xamp install\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-10-18 17:36:34 0 [Note] InnoDB: File 'D:\wordpess xamp install\mysql\data\ibtmp1' size is now 12 MB.
+2024-10-18 17:36:34 0 [Note] InnoDB: Waiting for purge to start
+2024-10-18 17:36:34 0 [Note] InnoDB: 10.4.32 started; log sequence number 8212404; transaction id 6203
+2024-10-18 17:36:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-10-18 17:36:34 0 [Note] InnoDB: Loading buffer pool(s) from D:\wordpess xamp install\mysql\data\ib_buffer_pool
+2024-10-18 17:36:34 0 [Note] Server socket created on IP: '::'.
+2024-10-18 17:36:34 0 [Note] InnoDB: Buffer pool(s) load completed at 241018 17:36:34
+2024-10-18 17:36:34 0 [Note] Reading of all Master_info entries succeeded
+2024-10-18 17:36:34 0 [Note] Added new Master_info '' to hash table
+2024-10-18 17:36:34 0 [Note] d:\wordpess xamp install\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

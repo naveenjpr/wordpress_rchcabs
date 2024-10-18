@@ -1,0 +1,169 @@
+18:01:45  [main] 	Initializing Control Panel
+18:01:45  [main] 	Windows Version:  Home  64-bit
+18:01:45  [main] 	XAMPP Version: 8.0.30
+18:01:45  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+18:01:45  [main] 	Running with Administrator rights - good!
+18:01:45  [main] 	XAMPP Installation Directory: "d:\wordpess xamp install\"
+18:01:45  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+18:01:45  [main] 	Checking for prerequisites
+18:01:45  [main] 	All prerequisites found
+18:01:45  [main] 	Initializing Modules
+18:01:45  [main] 	Starting Check-Timer
+18:01:45  [main] 	Control Panel Ready
+18:01:47  [Apache] 	Attempting to start Apache app...
+18:01:47  [Apache] 	Status change detected: running
+18:01:48  [mysql] 	Attempting to start MySQL app...
+18:01:48  [mysql] 	Status change detected: running
+18:05:25  [Apache] 	Attempting to stop Apache (PID: 14876)
+18:05:25  [Apache] 	Attempting to stop Apache (PID: 2744)
+18:05:25  [Apache] 	Status change detected: stopped
+18:05:27  [mysql] 	Attempting to stop MySQL app...
+18:05:27  [mysql] 	Status change detected: stopped
+18:05:28  [Apache] 	Attempting to start Apache app...
+18:05:28  [Apache] 	Status change detected: running
+18:05:30  [mysql] 	Attempting to start MySQL app...
+18:05:30  [mysql] 	Status change detected: running
+18:19:20  [Apache] 	Attempting to stop Apache (PID: 7812)
+18:19:20  [Apache] 	Attempting to stop Apache (PID: 15540)
+18:19:20  [Apache] 	Status change detected: stopped
+18:19:21  [mysql] 	Attempting to stop MySQL app...
+18:19:22  [mysql] 	Status change detected: stopped
+18:19:23  [Apache] 	Attempting to start Apache app...
+18:19:23  [Apache] 	Status change detected: running
+18:19:24  [mysql] 	Attempting to start MySQL app...
+18:19:24  [mysql] 	Status change detected: running
+20:29:04  [Apache] 	Attempting to stop Apache (PID: 1736)
+20:29:04  [Apache] 	Attempting to stop Apache (PID: 13128)
+20:29:05  [Apache] 	Status change detected: stopped
+20:29:05  [mysql] 	Attempting to stop MySQL app...
+20:29:06  [mysql] 	Status change detected: stopped
+21:19:39  [main] 	Deinitializing Modules
+21:19:39  [main] 	Deinitializing Control Panel
+
+18:01:21  [main] 	Initializing Control Panel
+18:01:21  [main] 	Windows Version:  Home  64-bit
+18:01:21  [main] 	XAMPP Version: 8.0.30
+18:01:21  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+18:01:21  [main] 	Running with Administrator rights - good!
+18:01:21  [main] 	XAMPP Installation Directory: "d:\wordpess xamp install\"
+18:01:21  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+18:01:21  [main] 	Checking for prerequisites
+18:01:25  [main] 	All prerequisites found
+18:01:25  [main] 	Initializing Modules
+18:01:25  [main] 	Starting Check-Timer
+18:01:25  [main] 	Control Panel Ready
+18:01:48  [Apache] 	Status change detected: running
+18:01:48  [mysql] 	Status change detected: running
+18:05:25  [Apache] 	Status change detected: stopped
+18:05:25  [Apache] 	Error: Apache shutdown unexpectedly.
+18:05:25  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:05:25  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:05:25  [Apache] 	Press the Logs button to view error logs and check
+18:05:25  [Apache] 	the Windows Event Viewer for more clues
+18:05:25  [Apache] 	If you need more help, copy and post this
+18:05:25  [Apache] 	entire log window on the forums
+18:05:27  [mysql] 	Status change detected: stopped
+18:05:27  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:05:27  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:05:27  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:05:27  [mysql] 	Press the Logs button to view error logs and check
+18:05:27  [mysql] 	the Windows Event Viewer for more clues
+18:05:27  [mysql] 	If you need more help, copy and post this
+18:05:27  [mysql] 	entire log window on the forums
+18:05:28  [Apache] 	Status change detected: running
+18:05:30  [mysql] 	Status change detected: running
+18:19:20  [Apache] 	Status change detected: stopped
+18:19:20  [Apache] 	Error: Apache shutdown unexpectedly.
+18:19:20  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:19:20  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:19:20  [Apache] 	Press the Logs button to view error logs and check
+18:19:20  [Apache] 	the Windows Event Viewer for more clues
+18:19:20  [Apache] 	If you need more help, copy and post this
+18:19:20  [Apache] 	entire log window on the forums
+18:19:21  [mysql] 	Status change detected: stopped
+18:19:21  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:19:21  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:19:21  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:19:21  [mysql] 	Press the Logs button to view error logs and check
+18:19:21  [mysql] 	the Windows Event Viewer for more clues
+18:19:21  [mysql] 	If you need more help, copy and post this
+18:19:21  [mysql] 	entire log window on the forums
+18:19:23  [Apache] 	Status change detected: running
+18:19:24  [mysql] 	Status change detected: running
+20:29:05  [Apache] 	Status change detected: stopped
+20:29:05  [Apache] 	Error: Apache shutdown unexpectedly.
+20:29:05  [Apache] 	This may be due to a blocked port, missing dependencies, 
+20:29:05  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+20:29:05  [Apache] 	Press the Logs button to view error logs and check
+20:29:05  [Apache] 	the Windows Event Viewer for more clues
+20:29:05  [Apache] 	If you need more help, copy and post this
+20:29:05  [Apache] 	entire log window on the forums
+20:29:06  [mysql] 	Status change detected: stopped
+20:29:06  [mysql] 	Error: MySQL shutdown unexpectedly.
+20:29:06  [mysql] 	This may be due to a blocked port, missing dependencies, 
+20:29:06  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+20:29:06  [mysql] 	Press the Logs button to view error logs and check
+20:29:06  [mysql] 	the Windows Event Viewer for more clues
+20:29:06  [mysql] 	If you need more help, copy and post this
+20:29:06  [mysql] 	entire log window on the forums
+21:19:40  [main] 	Deinitializing Modules
+21:19:40  [main] 	Deinitializing Control Panel
+
+21:53:18  [main] 	Initializing Control Panel
+21:53:18  [main] 	Windows Version:  Home  64-bit
+21:53:18  [main] 	XAMPP Version: 8.0.30
+21:53:18  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+21:53:18  [main] 	Running with Administrator rights - good!
+21:53:18  [main] 	XAMPP Installation Directory: "d:\wordpess xamp install\"
+21:53:18  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+21:53:18  [main] 	Checking for prerequisites
+21:53:21  [main] 	All prerequisites found
+21:53:21  [main] 	Initializing Modules
+21:53:21  [main] 	Starting Check-Timer
+21:53:21  [main] 	Control Panel Ready
+21:53:23  [Apache] 	Attempting to start Apache app...
+21:53:23  [Apache] 	Status change detected: running
+21:53:25  [mysql] 	Attempting to start MySQL app...
+21:53:25  [mysql] 	Status change detected: running
+22:54:59  [Apache] 	Attempting to stop Apache (PID: 7132)
+22:54:59  [Apache] 	Attempting to stop Apache (PID: 12604)
+22:54:59  [Apache] 	Status change detected: stopped
+22:55:00  [mysql] 	Attempting to stop MySQL app...
+22:55:00  [mysql] 	Status change detected: stopped
+22:55:10  [main] 	Deinitializing Modules
+22:55:10  [main] 	Deinitializing Control Panel
+
+17:36:17  [main] 	Initializing Control Panel
+17:36:17  [main] 	Windows Version:  Home  64-bit
+17:36:17  [main] 	XAMPP Version: 8.0.30
+17:36:17  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+17:36:17  [main] 	Running with Administrator rights - good!
+17:36:17  [main] 	XAMPP Installation Directory: "d:\wordpess xamp install\"
+17:36:17  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+17:36:17  [main] 	Checking for prerequisites
+17:36:21  [main] 	All prerequisites found
+17:36:21  [main] 	Initializing Modules
+17:36:21  [main] 	Starting Check-Timer
+17:36:21  [main] 	Control Panel Ready
+17:36:23  [Apache] 	Attempting to start Apache app...
+17:36:24  [Apache] 	Status change detected: running
+17:36:27  [mysql] 	Attempting to start MySQL app...
+17:36:27  [mysql] 	Status change detected: running
+17:36:28  [mysql] 	Status change detected: stopped
+17:36:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:36:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:36:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:36:28  [mysql] 	Press the Logs button to view error logs and check
+17:36:28  [mysql] 	the Windows Event Viewer for more clues
+17:36:28  [mysql] 	If you need more help, copy and post this
+17:36:28  [mysql] 	entire log window on the forums
+17:36:33  [mysql] 	Attempting to start MySQL app...
+17:36:33  [mysql] 	Status change detected: running
+21:15:40  [Apache] 	Attempting to stop Apache (PID: 11052)
+21:15:40  [Apache] 	Attempting to stop Apache (PID: 14416)
+21:15:41  [Apache] 	Status change detected: stopped
+21:15:41  [mysql] 	Attempting to stop MySQL app...
+21:15:42  [mysql] 	Status change detected: stopped
+21:15:51  [main] 	Deinitializing Modules
+21:15:51  [main] 	Deinitializing Control Panel
+
